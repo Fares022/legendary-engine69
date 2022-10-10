@@ -1,0 +1,22 @@
+/*
+
+
+*/ 
+#DCFFFD
+#AB92BF
+
+
+
+
+body
+.menu{max-width: 720px;
+    background-color:#05534f;
+    margin: auto;
+     }
+
+h1, h2{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+color: rgb(14, 9, 89);
+
+}
