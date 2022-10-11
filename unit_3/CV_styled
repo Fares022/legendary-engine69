@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <header> MY CV</header>
+    <main>
+        <Section> <strong>Places I worked</strong></Section>
+        <p>Welcome to my CV, down below are all the jobs I did</p>
+    <ol>Burgerking</ol>
+    <ol>McDonalds</ol>
+    <ol>Plumber</ol>
+    <ol>Real estate</ol>
+        <section>Education</section>
+        <ul>
+        <li>Dundee and Angus College: <strong>Biomedical</strong> </li>
+        <li>University Of Dundee: <strong> Computing Science</strong></li>
+        </ul>
+        <header> Table of <strong>Skills:</strong></header>
+            
+            <p><strong>Team Leadership</strong></p>
+            <progress id="file" value="70" max="100"> 70% </progress>
+            <p><strong>Time Management</strong></p>
+            <progress id="file" value="95" max="100"> 95% </progress>
+            <p> <strong>Customer Service</strong></p>
+            <progress id="file" value="83" max="100"> 83% </progress>
+
+        
+        
+    </main>
+  
+</body>
+</html>
